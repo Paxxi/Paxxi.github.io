@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Paxxi.github.io
+title: Pär Björklund
+tagline: Random thoughts on programming 
+description: My awesome new site
+paginate: 5
