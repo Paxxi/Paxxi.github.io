@@ -7,3 +7,5 @@ pygments: true
 tagline: "Random thoughts on programming"
 title: "Pär Björklund"
 url: "http://Paxxi.github.io"
+
+theme: jekyll-theme-cayman
