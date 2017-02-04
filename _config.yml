@@ -1,11 +1,10 @@
 --- 
-description: "First steps to trying out blogging"
+description: "Things that are interesting or useful to me"
 excerpt_separator: ""
 markdown: kramdown
 paginate: 5
-pygments: true
+highlighter: rouge
 tagline: "Random thoughts on programming"
-title: "Pär Björklund"
+title: "Paxxis soapbox"
 url: "http://Paxxi.github.io"
-
 theme: jekyll-theme-cayman
