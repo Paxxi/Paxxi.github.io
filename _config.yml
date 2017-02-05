@@ -7,4 +7,5 @@ highlighter: rouge
 tagline: "Random thoughts on programming"
 title: "Paxxis soapbox"
 url: "http://Paxxi.github.io"
+
 theme: jekyll-theme-cayman
